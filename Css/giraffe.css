@@ -1,0 +1,23 @@
+h1 {
+    color: brown;
+}
+h2 {
+    color: brown;
+}
+.woi {
+    font-size: 200%;
+}
+.didi {
+    font-family: sans-serif;
+}
+h1.didi{
+    font-style: italic;
+} 
+.gigi {
+    font-family: Helvetica;
+}
+.gaga{
+    font-family: fantasy;
+}
+
+

@@ -31,7 +31,12 @@ strong{
 em{
     font-style: bold;
 }
- 
+ .hihi {
+     font-variant: initial;
+ }
+.haha{
+    font-variant: inherit;
+}
  
 
 
