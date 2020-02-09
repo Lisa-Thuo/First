@@ -1,0 +1,12 @@
+h2.introduction{
+    color: red;
+    font-weight: bolder;
+}
+p.introduction{
+    color: gray;
+    font-family: fantasy;
+}
+img.introduction{
+    border-width: thick;
+    border-color: indigo;
+}
