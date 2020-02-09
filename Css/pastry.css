@@ -1,0 +1,18 @@
+.one {
+    font-family: fantasy;
+    color: purple;
+    float: left;
+}
+.two {
+    font-family: sans-serif;
+    color: orange;
+    float: right;
+}
+.three {
+    font-weight: bolder;
+    color: peru;
+}
+.four {
+    font-weight: bolder;
+    color: peru;
+}

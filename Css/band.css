@@ -1,0 +1,19 @@
+#column {
+    float: left;
+    width: 30%;
+}
+#one {
+    float: right;
+    width: 30%;
+}
+.pic {
+    float: top right;
+    background-color: purple;
+}
+.cip {
+    float: bottom right;
+    background-color: purple;
+}
+.her {
+    float: bottom right;
+}
