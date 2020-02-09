@@ -2,11 +2,16 @@
     font-family: fantasy;
     color: purple;
     float: left;
+    border: rosybrown;
+    background-color: salmon;
 }
 .two {
     font-family: sans-serif;
     color: orange;
-    float: right;
+    float: horizontal;
+    float: left;
+    border: royalblue;
+    background-color: brown;
 }
 .three {
     font-weight: bolder;

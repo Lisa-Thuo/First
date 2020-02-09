@@ -1,18 +1,24 @@
 #column {
     float: left;
     width: 30%;
+    background-color: crimson;
 }
 #one {
-    float: right;
+    float: left;
     width: 30%;
+    padding: 8px;
+    margin: 10px;
+    background-color: crimson;
 }
 .pic {
-    float: top right;
+    float: right;
+    padding: 5px;
     background-color: purple;
 }
 .cip {
-    float: bottom right;
+    float: right;
     background-color: purple;
+    padding: 5px;
 }
 .her {
     float: bottom right;

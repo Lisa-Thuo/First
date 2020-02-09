@@ -1,12 +1,31 @@
 .nat {
     float: left;
+    border: sienna;
+    padding: 10px;
+    border: 3px blue;
+    margin: 20px;
 }
 .port {
     float: middle;
+    border: slategrey;
+    padding: 10px;
+    border: 3px tan;
+    margin: 20px;
 }
 .eve{
     float: left;
+    border: tan;
+    padding: 10px;
+    border: 3px pink;
+    margin: 20px;
 }
 .neb{
     float: left;
+    border: black;
+    padding: 10px;
+    border: 3px black;
+    margin: 20px;
+}
+p {
+    background-color: blueviolet;
 }
